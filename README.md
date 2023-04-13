@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**nukhes/nukhes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Opa, sou Pedro Henrique Alves! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- Estudante ETEC (1º Ano Ensino Médio Integrado ao Curso de Desenvolvimento de Sistemas).
+- Estou aprendendo a utilizar Git e GitHub.
+
+
+## 🛠 Habilidades
+- Desenvolver código e organizar projetos.
+- Trabalhar com ferramentas em terminal.
+
+## 👨🏻‍💻 Código
+- Javascript, HTML e CSS.
+- Python.
+- Linguagem C#.
+
