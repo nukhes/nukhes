@@ -9,6 +9,3 @@
 - Javascript, HTML e CSS.
 - Python.
 - C#.
-
-## 🖥️ | Activity
-[![Pedro github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nukhes&bg_color=171717&color=9478cc&line=695298&point=c1aee6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
