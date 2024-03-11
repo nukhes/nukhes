@@ -2,10 +2,9 @@
 
 ## 🚀 | About Me
 - ETEC student (2º Ano Ensino Médio Integrado ao Curso de Desenvolvimento de Sistemas).
-- I'm learning to use Git and GitHub.
 - I'm Brazilian.
 
 ## 👨🏻‍💻 | Skills
-- Javascript, HTML e CSS.
-- Python.
-- C#.
+- Javascript, HTML e CSS
+- ReactJS && Next
+- C, C# (.net 8)
