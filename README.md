@@ -8,3 +8,7 @@
 - Javascript, HTML e CSS
 - ReactJS && Next
 - C, C# (.net 8)
+- Figma
+- Docker
+- Linux 🐧
+- MySQL
