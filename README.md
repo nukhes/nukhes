@@ -2,9 +2,8 @@
 
 ## 🚀 | About Me
 - ETEC student (2º Ano Ensino Médio Integrado ao Curso de Desenvolvimento de Sistemas).
-- I'm Brazilian.
 
-## 👨🏻‍💻 | Skills
+## 👨🏻‍💻 | Studying
 - Javascript, HTML e CSS
 - ReactJS && Next
 - C, C# (.net 8)
