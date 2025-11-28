@@ -1,3 +1,3 @@
-Entusiasta de Computadores atualmente curso o Ensino Médio.
+Entusiasta de Computadores.
 
 [Redes Sociais](https://guns.lol/nukhes)
